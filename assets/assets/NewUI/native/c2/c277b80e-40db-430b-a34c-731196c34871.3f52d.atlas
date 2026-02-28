@@ -1,0 +1,90 @@
+
+long.png
+size: 151,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long_1
+  rotate: true
+  xy: 2, 55
+  size: 103, 42
+  orig: 103, 42
+  offset: 0, 0
+  index: -1
+long_1_1
+  rotate: true
+  xy: 124, 160
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+long_1_2
+  rotate: true
+  xy: 125, 196
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+long_2
+  rotate: false
+  xy: 93, 165
+  size: 29, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+long_3
+  rotate: true
+  xy: 93, 236
+  size: 33, 32
+  orig: 37, 34
+  offset: 2, 1
+  index: -1
+long_4
+  rotate: false
+  xy: 46, 94
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+long_5
+  rotate: true
+  xy: 93, 196
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+long_6
+  rotate: false
+  xy: 2, 2
+  size: 82, 51
+  orig: 85, 53
+  offset: 2, 1
+  index: -1
+long_guang
+  rotate: true
+  xy: 127, 240
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+long_yun
+  rotate: true
+  xy: 2, 160
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+long_zi1
+  rotate: false
+  xy: 46, 58
+  size: 99, 34
+  orig: 99, 34
+  offset: 0, 0
+  index: -1
+ping_3
+  rotate: true
+  xy: 86, 5
+  size: 51, 56
+  orig: 107, 56
+  offset: 20, 0
+  index: -1

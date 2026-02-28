@@ -1,0 +1,55 @@
+
+bao_xiang.png
+size: 815,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_1
+  rotate: true
+  xy: 438, 124
+  size: 299, 206
+  orig: 299, 210
+  offset: 0, 4
+  index: -1
+bao_2
+  rotate: false
+  xy: 438, 37
+  size: 283, 77
+  orig: 283, 77
+  offset: 0, 0
+  index: -1
+bao_3
+  rotate: true
+  xy: 646, 158
+  size: 265, 167
+  orig: 265, 167
+  offset: 0, 0
+  index: -1
+guang_dian
+  rotate: false
+  xy: 438, 6
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+shan_guan
+  rotate: false
+  xy: 723, 26
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+shu_guang
+  rotate: false
+  xy: 2, 2
+  size: 434, 421
+  orig: 436, 437
+  offset: 1, 0
+  index: -1
+sxian_guang
+  rotate: true
+  xy: 646, 116
+  size: 40, 149
+  orig: 41, 153
+  offset: 1, 1
+  index: -1

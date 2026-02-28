@@ -1,0 +1,83 @@
+
+guang.png
+size: 875,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 615, 86
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 706, 4
+  size: 90, 71
+  orig: 90, 71
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 750, 96
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+b_2
+  rotate: false
+  xy: 615, 5
+  size: 79, 79
+  orig: 89, 89
+  offset: 5, 5
+  index: -1
+bei_jing_guang
+  rotate: false
+  xy: 2, 2
+  size: 611, 566
+  orig: 616, 578
+  offset: 2, 10
+  index: -1
+guang_0
+  rotate: true
+  xy: 615, 436
+  size: 132, 133
+  orig: 150, 150
+  offset: 9, 9
+  index: -1
+guang_1
+  rotate: true
+  xy: 615, 302
+  size: 132, 133
+  orig: 150, 150
+  offset: 9, 9
+  index: -1
+guang_2
+  rotate: true
+  xy: 615, 168
+  size: 132, 133
+  orig: 150, 150
+  offset: 9, 9
+  index: -1
+kuang
+  rotate: false
+  xy: 750, 441
+  size: 123, 127
+  orig: 129, 130
+  offset: 3, 0
+  index: -1
+kuang2
+  rotate: false
+  xy: 750, 312
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+kuang3
+  rotate: false
+  xy: 750, 183
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1

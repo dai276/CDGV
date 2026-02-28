@@ -1,0 +1,55 @@
+
+chuan_jia_bao.png
+size: 467,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_1
+  rotate: false
+  xy: 301, 188
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+a_11
+  rotate: false
+  xy: 301, 93
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+a_2
+  rotate: true
+  xy: 301, 2
+  size: 89, 83
+  orig: 98, 92
+  offset: 5, 5
+  index: -1
+a_3
+  rotate: true
+  xy: 410, 162
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+b_2
+  rotate: false
+  xy: 386, 12
+  size: 79, 79
+  orig: 89, 89
+  offset: 5, 5
+  index: -1
+bei_jing_guang1
+  rotate: false
+  xy: 2, 5
+  size: 297, 276
+  orig: 300, 281
+  offset: 1, 4
+  index: -1
+zi
+  rotate: true
+  xy: 410, 203
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: -1
